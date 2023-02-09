@@ -1,0 +1,19 @@
+[theme]
+background = "#000000" # text 
+primary = "#FFFFFF" 
+secondary = "#FFFFFF" # search bar color 
+title = "#FFFFFF" # "library of"
+playing = "red" # dark grayish - 5c5c5c
+playing_selected = "red" # highlighted playing text color - 000000
+playing_bg = "default" # transparent 
+highlight = "#000000" # highlighted text; for aesthetic purposes match to primary
+highlight_bg = "#FFFFFF" # gray bar highlighting
+error = "#FFFFFF"
+error_bg = "light red"
+statusbar = "#000000" # status bar text
+statusbar_progress = "#FFFFFF" 
+statusbar_bg = "#FFFFFF"
+cmdline = "#FFFFFF"
+cmdline_bg = "#000000" 
+search_match = "light red"
+# monochrome, minimal, superhot?

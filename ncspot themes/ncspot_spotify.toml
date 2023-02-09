@@ -1,0 +1,19 @@
+[theme]
+background = "default" # text 
+primary = "#FFFFFF" 
+secondary = "light black" # search bar color 
+title = "#1DB954" # "library of"
+playing = "#1DB954"
+playing_selected = "#1ED760" # highlighted playing text color
+playing_bg = "default" # transparent 
+highlight = "#FFFFFF" # highlighted text; for aesthetic purposes match to primary
+highlight_bg = "#484848" # gray bar highlighting
+error = "#FFFFFF"
+error_bg = "red"
+statusbar = "#191414" # status bar text
+statusbar_progress = "#1DB954" 
+statusbar_bg = "#1DB954"
+cmdline = "#FFFFFF"
+cmdline_bg = "#191414" 
+search_match = "light red" 
+# spotify colors, tweaked
