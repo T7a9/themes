@@ -145,7 +145,7 @@
     "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#000000",
     "BRAND_NEW": "#000000",
-    "STATUS_RED": "#FF9E0D",
+    "STATUS_RED": "#000000",
     "STATUS_GREEN_600": "#FFFFFF"
   },
   "unsafe_colors": {
