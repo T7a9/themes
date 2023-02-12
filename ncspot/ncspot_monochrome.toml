@@ -15,5 +15,5 @@ statusbar_progress = "#FFFFFF"
 statusbar_bg = "#FFFFFF"
 cmdline = "#FFFFFF"
 cmdline_bg = "#000000" 
-search_match = "light red"
-# monochrome, minimal, superhot?
+search_match = "red"
+
