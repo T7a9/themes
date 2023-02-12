@@ -140,12 +140,12 @@
     "PRIMARY_DARK_400": "#C8C8C8",
     "PRIMARY_DARK_500": "#0c0c0c",
     "PRIMARY_DARK_600": "#000000",
-    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_630": "#c20e0e",
     "PRIMARY_DARK_700": "#000000",
     "PRIMARY_DARK_800": "#000000",
     "PRIMARY_DARK_900": "#000000",
     "BRAND_NEW": "#000000",
-    "STATUS_RED": "#000000",
+    "STATUS_RED": "#1f1f1f",
     "STATUS_GREEN_600": "#FFFFFF"
   },
   "unsafe_colors": {
