@@ -129,10 +129,8 @@
     "TEXT_LINK": [
       "#B6B6B6",
       "#FFFFFF"
-    ],
-    "BACKGROUND_MENTIONED_HOVER": [
-      "#ff0000"
     ]
+
   },
   "colours": {
     "PRIMARY_DARK": "#000000",
