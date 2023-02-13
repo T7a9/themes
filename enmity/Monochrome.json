@@ -131,7 +131,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "transparent"
+      "#ff0000"
     ]
   },
   "colours": {
