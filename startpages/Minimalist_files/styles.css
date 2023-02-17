@@ -9,7 +9,7 @@
 
 
 body {
-    background-color: #11111b;
+    background-color: #000000;
     margin: 0px;
 }
 
@@ -47,7 +47,7 @@ body {
     width: 100%;
     padding: .75em 1em;
     box-sizing: border-box;
-    background-color: #11111b; /* "transparent" search bar 11111b - same color as background */
+    background-color: transparent; /* actual transparency */
    /* opacity:  0.1; */
     border: solid 0px #272727;
     font-family: "Roboto Mono";
@@ -61,7 +61,7 @@ body {
 
 .weather-container {
     width: 20%;
-    background-color: #45475a; /* used to be 272727 */
+    background-color: #000000; /* used to be 45475a */
     padding: 1em;
     border-radius: 3px;
     font-family: "Roboto Mono";
