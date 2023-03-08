@@ -20,8 +20,8 @@
   --backgroundRepeat: no-repeat;
   --backgroundBlur: 100px;
   --backgroundOpacity: 0.65;
-  --homeImage: url('https://imgur.com/eItxuAq.png');
-  --homeImageSize: cover;
+  --homeImage: url('https://raw.githubusercontent.com/linuxdotexe/nordic-wallpapers/master/wallpapers/Minimal-Nord.png');
+  --homeImageSize: 900%;
   --themeColor1: #FFFFFF;
   --themeColor2: #F4F4F4;
   --customFont: Montserrat;
