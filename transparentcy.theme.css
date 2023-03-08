@@ -1,0 +1,68 @@
+/**
+ * @name transparentcy
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Unifont:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 0;
+  --accent-saturation: 0%;
+  --accent-brightness: 100%;
+  --background-accent-hue: 0;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 0%;
+  --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 100%;
+  --background-overlay-color-lightness: -1;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 0%;
+  --window-blur: 50;
+  --window-friends-blur: 0;
+  --window-margin: 0;
+  --window-margin-left: 0;
+  --window-border-radius: 10px;
+  --window-background-lightness: -1;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 176;
+  --chat-text-brightness: 1;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 0;
+  --sidebar-width: 274px;
+  --members-width: 240px;
+  --sidebar-text-brightness: 0.2;
+  --background-floating-blur: 14px;
+  --floating-background-lightness: -0.48;
+  --background-floating-opacity: 0.99;
+  --enable-floating-transparency: 0;
+  --custom-font-display: Montserrat;
+  --custom-font-regular: Montserrat;
+  --custom-font-primary: Montserrat;
+  --custom-font-code: Unifont;
+  --enable-blur: 0;
+}
+
+/* Any custom CSS below here */
+
+
