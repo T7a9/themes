@@ -1,5 +1,5 @@
 /**
- * @name NordicClear
+ * @name nordicclear
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -31,17 +31,17 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: transparent;
+  --user-popout-image: url('https://i.imgur.com/3B7MyRE.png');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 0%;
+  --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 5px;
+  --user-popout-blur: 2px;
   --user-modal-image: url('https://i.imgur.com/YeThsaM.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
