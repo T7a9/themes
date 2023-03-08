@@ -9,12 +9,12 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Unifont:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #868F99;
-  --hover-color: #1e63b3;
+  --hover-color: #4C566A;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
@@ -64,8 +64,8 @@
   --dnd-color: #BF616A;
   --streaming-color: #B48EAD;
   --offline-color: #D8DEE9;
-  --main-font: Unifont;
-  --code-font: Fira Code;
+  --main-font: Varela Round;
+  --code-font: Unifont;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
@@ -85,6 +85,7 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
+
 
 /* Any custom CSS below here */
 
