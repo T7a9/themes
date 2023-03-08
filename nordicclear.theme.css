@@ -36,12 +36,12 @@
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 0%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 2px;
+  --user-popout-blur: 5px;
   --user-modal-image: url('https://i.imgur.com/YeThsaM.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -85,7 +85,6 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
-
 
 /* Any custom CSS below here */
 
